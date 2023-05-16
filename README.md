@@ -1,4 +1,5 @@
-# Normie to Giga Chad (N2GC) ## Goal 
+# Normie to Giga Chad (N2GC) 
+## Goal 
 Normie to Giga Chad is a website that has for goal to help you upgrade your
 setup to the next level. It is a website that will help you find the best apps,
 tools , tips and tricks to get the most out of macOS, Windows and Linux. 
